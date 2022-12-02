@@ -1,4 +1,4 @@
 # hello-world
 introductory repository
 
-yatta yatta yatta yatta yatta yatta yatta
+Yatta yatta yatta yatta yatta yatta yatta.
